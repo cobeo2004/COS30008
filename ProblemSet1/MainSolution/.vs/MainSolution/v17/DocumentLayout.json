@@ -1,0 +1,212 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "\\\\Mac\\Home\\Desktop\\Codes\\SchoolWork\\COS30008\\ProblemSet1\\MainSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BDAE6DA6-4667-4603-AF1C-872438B0606B}|MainSolution.vcxproj|\\\\Mac\\Home\\Desktop\\Codes\\SchoolWork\\COS30008\\ProblemSet1\\MainSolution\\PS1Solution\\PolygonPS1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDAE6DA6-4667-4603-AF1C-872438B0606B}|MainSolution.vcxproj|\\\\Mac\\Home\\Desktop\\Codes\\SchoolWork\\COS30008\\ProblemSet1\\MainSolution\\Implementation\\Polygon.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDAE6DA6-4667-4603-AF1C-872438B0606B}|MainSolution.vcxproj|\\\\Mac\\Home\\Desktop\\Codes\\SchoolWork\\COS30008\\ProblemSet1\\MainSolution\\PS1Solution\\Matrix3x3_PS1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDAE6DA6-4667-4603-AF1C-872438B0606B}|MainSolution.vcxproj|\\\\Mac\\Home\\Desktop\\Codes\\SchoolWork\\COS30008\\ProblemSet1\\MainSolution\\PS1Solution\\Vector3D_PS1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDAE6DA6-4667-4603-AF1C-872438B0606B}|MainSolution.vcxproj|\\\\Mac\\Home\\Desktop\\Codes\\SchoolWork\\COS30008\\ProblemSet1\\MainSolution\\Implementation\\Vector3D.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDAE6DA6-4667-4603-AF1C-872438B0606B}|MainSolution.vcxproj|\\\\Mac\\Home\\Desktop\\Codes\\SchoolWork\\COS30008\\ProblemSet1\\MainSolution\\Implementation\\Vector2D.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDAE6DA6-4667-4603-AF1C-872438B0606B}|MainSolution.vcxproj|\\\\Mac\\Home\\Desktop\\Codes\\SchoolWork\\COS30008\\ProblemSet1\\MainSolution\\Implementation\\Matrix3x3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDAE6DA6-4667-4603-AF1C-872438B0606B}|MainSolution.vcxproj|\\\\Mac\\Home\\Desktop\\Codes\\SchoolWork\\COS30008\\ProblemSet1\\MainSolution\\Header\\Matrix3x3.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDAE6DA6-4667-4603-AF1C-872438B0606B}|MainSolution.vcxproj|\\\\Mac\\Home\\Desktop\\Codes\\SchoolWork\\COS30008\\ProblemSet1\\MainSolution\\Header\\Polygon.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDAE6DA6-4667-4603-AF1C-872438B0606B}|MainSolution.vcxproj|\\\\Mac\\Home\\Desktop\\Codes\\SchoolWork\\COS30008\\ProblemSet1\\MainSolution\\Header\\Vector2D.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDAE6DA6-4667-4603-AF1C-872438B0606B}|MainSolution.vcxproj|\\\\Mac\\Home\\Desktop\\Codes\\SchoolWork\\COS30008\\ProblemSet1\\MainSolution\\Header\\Vector3D.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDAE6DA6-4667-4603-AF1C-872438B0606B}|MainSolution.vcxproj|\\\\Mac\\Home\\Desktop\\Codes\\SchoolWork\\COS30008\\ProblemSet1\\MainSolution\\MainSolution.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Matrix3x3_PS1.cpp",
+              "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\Codes\\SchoolWork\\COS30008\\ProblemSet1\\MainSolution\\PS1Solution\\Matrix3x3_PS1.cpp",
+              "RelativeDocumentMoniker": "PS1Solution\\Matrix3x3_PS1.cpp",
+              "ToolTip": "\\\\Mac\\Home\\Desktop\\Codes\\SchoolWork\\COS30008\\ProblemSet1\\MainSolution\\PS1Solution\\Matrix3x3_PS1.cpp",
+              "RelativeToolTip": "PS1Solution\\Matrix3x3_PS1.cpp",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAA8AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-20T01:52:38.197Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PolygonPS1.cpp",
+              "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\Codes\\SchoolWork\\COS30008\\ProblemSet1\\MainSolution\\PS1Solution\\PolygonPS1.cpp",
+              "RelativeDocumentMoniker": "PS1Solution\\PolygonPS1.cpp",
+              "ToolTip": "\\\\Mac\\Home\\Desktop\\Codes\\SchoolWork\\COS30008\\ProblemSet1\\MainSolution\\PS1Solution\\PolygonPS1.cpp",
+              "RelativeToolTip": "PS1Solution\\PolygonPS1.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-27T03:04:51.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Polygon.cpp",
+              "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\Codes\\SchoolWork\\COS30008\\ProblemSet1\\MainSolution\\Implementation\\Polygon.cpp",
+              "RelativeDocumentMoniker": "Implementation\\Polygon.cpp",
+              "ToolTip": "\\\\Mac\\Home\\Desktop\\Codes\\SchoolWork\\COS30008\\ProblemSet1\\MainSolution\\Implementation\\Polygon.cpp",
+              "RelativeToolTip": "Implementation\\Polygon.cpp",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAADEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-20T00:21:07.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Vector3D.cpp",
+              "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\Codes\\SchoolWork\\COS30008\\ProblemSet1\\MainSolution\\Implementation\\Vector3D.cpp",
+              "RelativeDocumentMoniker": "Implementation\\Vector3D.cpp",
+              "ToolTip": "\\\\Mac\\Home\\Desktop\\Codes\\SchoolWork\\COS30008\\ProblemSet1\\MainSolution\\Implementation\\Vector3D.cpp",
+              "RelativeToolTip": "Implementation\\Vector3D.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-20T01:20:18.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Vector3D_PS1.cpp",
+              "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\Codes\\SchoolWork\\COS30008\\ProblemSet1\\MainSolution\\PS1Solution\\Vector3D_PS1.cpp",
+              "RelativeDocumentMoniker": "PS1Solution\\Vector3D_PS1.cpp",
+              "ToolTip": "\\\\Mac\\Home\\Desktop\\Codes\\SchoolWork\\COS30008\\ProblemSet1\\MainSolution\\PS1Solution\\Vector3D_PS1.cpp",
+              "RelativeToolTip": "PS1Solution\\Vector3D_PS1.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-20T00:23:52.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Vector2D.cpp",
+              "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\Codes\\SchoolWork\\COS30008\\ProblemSet1\\MainSolution\\Implementation\\Vector2D.cpp",
+              "RelativeDocumentMoniker": "Implementation\\Vector2D.cpp",
+              "ToolTip": "\\\\Mac\\Home\\Desktop\\Codes\\SchoolWork\\COS30008\\ProblemSet1\\MainSolution\\Implementation\\Vector2D.cpp",
+              "RelativeToolTip": "Implementation\\Vector2D.cpp",
+              "ViewState": "AQIAADkAAABAnpmZmRkmwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-20T00:17:36.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Matrix3x3.cpp",
+              "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\Codes\\SchoolWork\\COS30008\\ProblemSet1\\MainSolution\\Implementation\\Matrix3x3.cpp",
+              "RelativeDocumentMoniker": "Implementation\\Matrix3x3.cpp",
+              "ToolTip": "\\\\Mac\\Home\\Desktop\\Codes\\SchoolWork\\COS30008\\ProblemSet1\\MainSolution\\Implementation\\Matrix3x3.cpp",
+              "RelativeToolTip": "Implementation\\Matrix3x3.cpp",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAEcAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-20T00:12:55.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Matrix3x3.h",
+              "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\Codes\\SchoolWork\\COS30008\\ProblemSet1\\MainSolution\\Header\\Matrix3x3.h",
+              "RelativeDocumentMoniker": "Header\\Matrix3x3.h",
+              "ToolTip": "\\\\Mac\\Home\\Desktop\\Codes\\SchoolWork\\COS30008\\ProblemSet1\\MainSolution\\Header\\Matrix3x3.h",
+              "RelativeToolTip": "Header\\Matrix3x3.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-20T00:19:23.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Polygon.h",
+              "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\Codes\\SchoolWork\\COS30008\\ProblemSet1\\MainSolution\\Header\\Polygon.h",
+              "RelativeDocumentMoniker": "Header\\Polygon.h",
+              "ToolTip": "\\\\Mac\\Home\\Desktop\\Codes\\SchoolWork\\COS30008\\ProblemSet1\\MainSolution\\Header\\Polygon.h",
+              "RelativeToolTip": "Header\\Polygon.h",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACAAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-20T00:19:22.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Vector2D.h",
+              "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\Codes\\SchoolWork\\COS30008\\ProblemSet1\\MainSolution\\Header\\Vector2D.h",
+              "RelativeDocumentMoniker": "Header\\Vector2D.h",
+              "ToolTip": "\\\\Mac\\Home\\Desktop\\Codes\\SchoolWork\\COS30008\\ProblemSet1\\MainSolution\\Header\\Vector2D.h",
+              "RelativeToolTip": "Header\\Vector2D.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-20T01:19:53.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Vector3D.h",
+              "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\Codes\\SchoolWork\\COS30008\\ProblemSet1\\MainSolution\\Header\\Vector3D.h",
+              "RelativeDocumentMoniker": "Header\\Vector3D.h",
+              "ToolTip": "\\\\Mac\\Home\\Desktop\\Codes\\SchoolWork\\COS30008\\ProblemSet1\\MainSolution\\Header\\Vector3D.h",
+              "RelativeToolTip": "Header\\Vector3D.h",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-20T00:13:00.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainSolution.cpp",
+              "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\Codes\\SchoolWork\\COS30008\\ProblemSet1\\MainSolution\\MainSolution.cpp",
+              "RelativeDocumentMoniker": "MainSolution.cpp",
+              "ToolTip": "\\\\Mac\\Home\\Desktop\\Codes\\SchoolWork\\COS30008\\ProblemSet1\\MainSolution\\MainSolution.cpp",
+              "RelativeToolTip": "MainSolution.cpp",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAAABwAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-21T02:53:29.871Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "\\\\Mac\\Home\\Desktop\\Codes\\SchoolWork\\COS30008\\Lab3\\Lab3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{49493B09-0CB5-4252-8C00-D9B6AF244162}|Lab3.vcxproj|\\\\Mac\\Home\\Desktop\\Codes\\SchoolWork\\COS30008\\Lab3\\Lab3\\Lab3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49493B09-0CB5-4252-8C00-D9B6AF244162}|Lab3.vcxproj|\\\\Mac\\Home\\Desktop\\Codes\\SchoolWork\\COS30008\\Lab3\\Lab3\\BankAccount\\BankAccount.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49493B09-0CB5-4252-8C00-D9B6AF244162}|Lab3.vcxproj|\\\\Mac\\Home\\Desktop\\Codes\\SchoolWork\\COS30008\\Lab3\\Lab3\\Account\\Account.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49493B09-0CB5-4252-8C00-D9B6AF244162}|Lab3.vcxproj|\\\\Mac\\Home\\Desktop\\Codes\\SchoolWork\\COS30008\\Lab3\\Lab3\\Account\\Account.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49493B09-0CB5-4252-8C00-D9B6AF244162}|Lab3.vcxproj|\\\\Mac\\Home\\Desktop\\Codes\\SchoolWork\\COS30008\\Lab3\\Lab3\\BankAccount\\BankAccount.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BankAccount.cpp",
+              "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\Codes\\SchoolWork\\COS30008\\Lab3\\Lab3\\BankAccount\\BankAccount.cpp",
+              "RelativeDocumentMoniker": "BankAccount\\BankAccount.cpp",
+              "ToolTip": "\\\\Mac\\Home\\Desktop\\Codes\\SchoolWork\\COS30008\\Lab3\\Lab3\\BankAccount\\BankAccount.cpp",
+              "RelativeToolTip": "BankAccount\\BankAccount.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-18T03:05:13.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BankAccount.h",
+              "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\Codes\\SchoolWork\\COS30008\\Lab3\\Lab3\\BankAccount\\BankAccount.h",
+              "RelativeDocumentMoniker": "BankAccount\\BankAccount.h",
+              "ToolTip": "\\\\Mac\\Home\\Desktop\\Codes\\SchoolWork\\COS30008\\Lab3\\Lab3\\BankAccount\\BankAccount.h",
+              "RelativeToolTip": "BankAccount\\BankAccount.h",
+              "ViewState": "AQIAAAEAAACImpmZmdkhwAwAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-18T02:53:42.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lab3.cpp",
+              "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\Codes\\SchoolWork\\COS30008\\Lab3\\Lab3\\Lab3.cpp",
+              "RelativeDocumentMoniker": "Lab3.cpp",
+              "ToolTip": "\\\\Mac\\Home\\Desktop\\Codes\\SchoolWork\\COS30008\\Lab3\\Lab3\\Lab3.cpp",
+              "RelativeToolTip": "Lab3.cpp",
+              "ViewState": "AQIAAAcAAACwzMzMzMwnwBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-18T02:49:03.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Account.cpp",
+              "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\Codes\\SchoolWork\\COS30008\\Lab3\\Lab3\\Account\\Account.cpp",
+              "RelativeDocumentMoniker": "Account\\Account.cpp",
+              "ToolTip": "\\\\Mac\\Home\\Desktop\\Codes\\SchoolWork\\COS30008\\Lab3\\Lab3\\Account\\Account.cpp",
+              "RelativeToolTip": "Account\\Account.cpp",
+              "ViewState": "AQIAAAAAAAAANDMzMzPrvxQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-18T03:00:12.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Account.h",
+              "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\Codes\\SchoolWork\\COS30008\\Lab3\\Lab3\\Account\\Account.h",
+              "RelativeDocumentMoniker": "Account\\Account.h",
+              "ToolTip": "\\\\Mac\\Home\\Desktop\\Codes\\SchoolWork\\COS30008\\Lab3\\Lab3\\Account\\Account.h",
+              "RelativeToolTip": "Account\\Account.h",
+              "ViewState": "AQIAAAIAAACwAAAAAMAmwAsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-18T02:49:52.092Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

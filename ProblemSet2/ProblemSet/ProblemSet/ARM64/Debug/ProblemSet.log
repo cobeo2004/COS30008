@@ -1,0 +1,9 @@
+﻿  FibonacciSequenceIterator.cpp
+  FiboonacciSequenceGenerator.cpp
+  ProblemSet.cpp
+\\mac\Home\Desktop\Codes\SchoolWork\COS30008\ProblemSet2\ProblemSet\Implementation\FiboonacciSequenceGenerator.cpp(31,3): warning C4297: 'FibonacciSequenceGenerator::next': function assumed not to throw an exception but does
+  \\mac\Home\Desktop\Codes\SchoolWork\COS30008\ProblemSet2\ProblemSet\Implementation\FiboonacciSequenceGenerator.cpp(31,3):
+  __declspec(nothrow), throw(), noexcept(true), or noexcept was specified on the function
+  
+  Generating Code...
+  ProblemSet.vcxproj -> \\Mac\Home\Desktop\Codes\SchoolWork\COS30008\ProblemSet2\ProblemSet\ARM64\Debug\ProblemSet.exe

@@ -62,10 +62,12 @@ void runP2()
 
     std::cout << "Fibonacci sequence " << lSequence.id() << " for long long:" << std::endl;
 
+
     for (const auto& n : FibonacciSequenceIterator(lSequence))
     {
         std::cout << std::setw(2) << ++lCount << ": " << n << std::endl;
     }
+  
 
     if (lCount == MAX_FIBONACCI)
     {

@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "\\\\Mac\\Home\\Desktop\\Codes\\SchoolWork\\COS30008\\Lab01\\HelloWorld\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|\\\\Mac\\Home\\Downloads\\FibonacciSequenceIterator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|\\\\Mac\\Home\\Desktop\\Codes\\SchoolWork\\COS30008\\Lab01\\HelloWorld\\helloWorld.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FibonacciSequenceIterator.cpp",
+              "DocumentMoniker": "\\\\Mac\\Home\\Downloads\\FibonacciSequenceIterator.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Downloads\\FibonacciSequenceIterator.cpp",
+              "ToolTip": "\\\\Mac\\Home\\Downloads\\FibonacciSequenceIterator.cpp",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Downloads\\FibonacciSequenceIterator.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-21T15:32:51.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "helloWorld.cpp",
+              "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\Codes\\SchoolWork\\COS30008\\Lab01\\HelloWorld\\helloWorld.cpp",
+              "RelativeDocumentMoniker": "helloWorld.cpp",
+              "ToolTip": "\\\\Mac\\Home\\Desktop\\Codes\\SchoolWork\\COS30008\\Lab01\\HelloWorld\\helloWorld.cpp",
+              "RelativeToolTip": "helloWorld.cpp",
+              "ViewState": "AQIAABEBAAAAAAAAAAAAAAsAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-21T15:31:30.078Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+﻿  KeyProvider.cpp
+  VignereForwardIterator.cpp
+\\mac\Home\Desktop\Codes\SchoolWork\COS30008\MidSem\MidTerm2\Implementation\VignereForwardIterator.cpp(11,40): warning C4267: '=': conversion from 'size_t' to 'char', possible loss of data
+\\mac\Home\Desktop\Codes\SchoolWork\COS30008\MidSem\MidTerm2\Implementation\VignereForwardIterator.cpp(13,40): warning C4267: '=': conversion from 'size_t' to 'char', possible loss of data
+  MidTerm2.cpp
+  Generating Code...
+  MidTerm2.vcxproj -> \\Mac\Home\Desktop\Codes\SchoolWork\COS30008\MidSem\MidTerm2\x64\Debug\MidTerm2.exe

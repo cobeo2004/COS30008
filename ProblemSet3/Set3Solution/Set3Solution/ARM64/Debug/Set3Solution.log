@@ -1,0 +1,6 @@
+﻿  ifstream12.cpp
+\\mac\Home\Desktop\Codes\SchoolWork\COS30008\ProblemSet3\Set3Solution\Implementation\ifstream12.cpp(93,24): warning C4334: '<<': result of 32-bit shift implicitly converted to 64 bits (was 64-bit shift intended?)
+  ofstream12.cpp
+  Set3Solution.cpp
+  Generating Code...
+  Set3Solution.vcxproj -> \\Mac\Home\Desktop\Codes\SchoolWork\COS30008\ProblemSet3\Set3Solution\ARM64\Debug\Set3Solution.exe

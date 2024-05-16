@@ -1,0 +1,97 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "\\\\Mac\\Home\\Desktop\\Codes\\SchoolWork\\COS30008\\ProblemSet3\\Set3Solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{769D918C-D7E5-4671-A0A0-4D94B4A605CB}|Set3Solution.vcxproj|\\\\Mac\\Home\\Desktop\\Codes\\SchoolWork\\COS30008\\ProblemSet3\\Set3Solution\\Implementation\\ifstream12.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{769D918C-D7E5-4671-A0A0-4D94B4A605CB}|Set3Solution.vcxproj|\\\\Mac\\Home\\Desktop\\Codes\\SchoolWork\\COS30008\\ProblemSet3\\Set3Solution\\Implementation\\ofstream12.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{769D918C-D7E5-4671-A0A0-4D94B4A605CB}|Set3Solution.vcxproj|\\\\Mac\\Home\\Desktop\\Codes\\SchoolWork\\COS30008\\ProblemSet3\\Set3Solution\\Set3Solution.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{769D918C-D7E5-4671-A0A0-4D94B4A605CB}|Set3Solution.vcxproj|\\\\Mac\\Home\\Desktop\\Codes\\SchoolWork\\COS30008\\ProblemSet3\\Set3Solution\\Header\\ofstream12.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{769D918C-D7E5-4671-A0A0-4D94B4A605CB}|Set3Solution.vcxproj|\\\\Mac\\Home\\Desktop\\Codes\\SchoolWork\\COS30008\\ProblemSet3\\Set3Solution\\Header\\ifstream12.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ofstream12.h",
+              "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\Codes\\SchoolWork\\COS30008\\ProblemSet3\\Set3Solution\\Header\\ofstream12.h",
+              "RelativeDocumentMoniker": "Header\\ofstream12.h",
+              "ToolTip": "\\\\Mac\\Home\\Desktop\\Codes\\SchoolWork\\COS30008\\ProblemSet3\\Set3Solution\\Header\\ofstream12.h",
+              "RelativeToolTip": "Header\\ofstream12.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-08T13:49:32.837Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ofstream12.cpp",
+              "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\Codes\\SchoolWork\\COS30008\\ProblemSet3\\Set3Solution\\Implementation\\ofstream12.cpp",
+              "RelativeDocumentMoniker": "Implementation\\ofstream12.cpp",
+              "ToolTip": "\\\\Mac\\Home\\Desktop\\Codes\\SchoolWork\\COS30008\\ProblemSet3\\Set3Solution\\Implementation\\ofstream12.cpp",
+              "RelativeToolTip": "Implementation\\ofstream12.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAG0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-08T14:07:01.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Set3Solution.cpp",
+              "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\Codes\\SchoolWork\\COS30008\\ProblemSet3\\Set3Solution\\Set3Solution.cpp",
+              "RelativeDocumentMoniker": "Set3Solution.cpp",
+              "ToolTip": "\\\\Mac\\Home\\Desktop\\Codes\\SchoolWork\\COS30008\\ProblemSet3\\Set3Solution\\Set3Solution.cpp",
+              "RelativeToolTip": "Set3Solution.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-08T13:29:03.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ifstream12.cpp",
+              "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\Codes\\SchoolWork\\COS30008\\ProblemSet3\\Set3Solution\\Implementation\\ifstream12.cpp",
+              "RelativeDocumentMoniker": "Implementation\\ifstream12.cpp",
+              "ToolTip": "\\\\Mac\\Home\\Desktop\\Codes\\SchoolWork\\COS30008\\ProblemSet3\\Set3Solution\\Implementation\\ifstream12.cpp",
+              "RelativeToolTip": "Implementation\\ifstream12.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-10T12:34:31.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ifstream12.h",
+              "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\Codes\\SchoolWork\\COS30008\\ProblemSet3\\Set3Solution\\Header\\ifstream12.h",
+              "RelativeDocumentMoniker": "Header\\ifstream12.h",
+              "ToolTip": "\\\\Mac\\Home\\Desktop\\Codes\\SchoolWork\\COS30008\\ProblemSet3\\Set3Solution\\Header\\ifstream12.h",
+              "RelativeToolTip": "Header\\ifstream12.h",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwBYAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-08T14:07:04.038Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

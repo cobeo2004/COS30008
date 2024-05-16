@@ -1,0 +1,10 @@
+{
+  "C_Cpp.default.compilerPath": "/usr/bin/g++",
+  "files.associations": {
+    "*.rb": "ruby",
+    "cstddef": "cpp",
+    "istream": "cpp",
+    "ios": "cpp",
+    "cassert": "cpp"
+  }
+}

@@ -1,0 +1,7 @@
+﻿  ifstream12.cpp
+\\mac\Home\Desktop\Codes\SchoolWork\COS30008\ProblemSet3\Set3Solution\Implementation\ifstream12.cpp(1,10): error C1083: Cannot open include file: 'ifstream12.h': No such file or directory
+  ofstream12.cpp
+\\mac\Home\Desktop\Codes\SchoolWork\COS30008\ProblemSet3\Set3Solution\Implementation\ofstream12.cpp(4,10): error C1083: Cannot open include file: 'ofstream12.h': No such file or directory
+  Set3Solution.cpp
+\\mac\Home\Desktop\Codes\SchoolWork\COS30008\ProblemSet3\Set3Solution\Set3Solution.cpp(4,10): error C1083: Cannot open include file: 'ofstream12.h': No such file or directory
+  Generating Code...
